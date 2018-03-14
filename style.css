@@ -1,0 +1,9 @@
+header h2{
+    font-family: 'Timmana', sans-serif;
+}
+nav img{
+    height:80px;
+}
+.carousel-inner{
+    border-radius:8px;
+}
